@@ -1,0 +1,30 @@
+[33mcommit c156afde8e03703ffe675a7f62d95deee25bdf22[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: a4f6304 142d2a4
+Author: unknown <dung23cm@gmail.com>
+Date:   Wed Jul 15 10:37:12 2020 +0700
+
+    sample
+
+[33mcommit a4f6304156758980a9012e865c49b2b2aebd27f4[m
+Author: unknown <dung23cm@gmail.com>
+Date:   Wed Jul 15 10:27:44 2020 +0700
+
+    sample g
+
+[33mcommit 142d2a4ebab6dd8bcdc62ea0ca49151438f4e7ac[m[33m ([m[1;32mmicrosoft[m[33m)[m
+Author: unknown <dung23cm@gmail.com>
+Date:   Wed Jul 15 10:25:18 2020 +0700
+
+    sample f
+
+[33mcommit 0ddaf72af9c3ba482acaf89e95200241c954f424[m
+Author: unknown <dung23cm@gmail.com>
+Date:   Wed Jul 15 10:08:17 2020 +0700
+
+    sample b
+
+[33mcommit aeff18bd63608422eede31b8dc54db29bc2da7d9[m[33m ([m[1;32mgoogle[m[33m)[m
+Author: unknown <dung23cm@gmail.com>
+Date:   Wed Jul 15 09:38:17 2020 +0700
+
+    sample a
